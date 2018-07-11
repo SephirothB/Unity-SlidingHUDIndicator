@@ -1,6 +1,6 @@
 # Sliding HUD Indicator
 
-<img src="ScreenShots/exmaple.gif"  height="128" />
+<img src="ScreenShots/example.gif"  height="128" />
 
 This project is home to Sliding HUD indicator. For example, if a player collects money, a customizable strip will slide from out of view, show the change, and then slide back out of view.
 
@@ -26,6 +26,9 @@ Unity 2018.1+
 For Example:
 * Static would be like a money counter. This would stay in view until the money counter is no longer being updated. Then slide out of view.
 * Disposable would be collecting objects (Fish, Flowers, Whatever) and as you collect, the sliders would stack on top of each other, with the oldest sliding out first.
+
+
+
 
 ## Known Bugs
 * Spamming the Add/Remove will cause the Slider Object to disappear instantly when the update is complete, instead of sliding back out.
