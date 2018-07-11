@@ -4,12 +4,12 @@
 
 This project is home to Sliding HUD indicator. For example, if a player collects money, a customizable strip will slide from out of view, show the change, and then slide back out of view.
 
-
+The Slider will slide out, change the text value, and slide back out of view.
 
 
 ## Getting Started
 
-Clone or download the project. This is a learning project and not a package you can import.
+Clone or download the project. This is a learning project and not a package you should import.
 
 ### Prerequisites
 
