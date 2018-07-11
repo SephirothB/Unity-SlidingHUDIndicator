@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingHUDIndicator", "Assembly-CSharp.csproj", "{331AD661-A9BF-1872-A59B-173610804FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331AD661-A9BF-1872-A59B-173610804FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331AD661-A9BF-1872-A59B-173610804FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331AD661-A9BF-1872-A59B-173610804FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331AD661-A9BF-1872-A59B-173610804FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
